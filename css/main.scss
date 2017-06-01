@@ -2,15 +2,12 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+nav ul, {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline-block;
-    margin-right: 20px;
+    display: inline-block
 }
 .background {
     background-image: url(https://prettygirlssweat.com/sites/default/files/styles/0x650/public/field/image/TD_CollegePartySafety_1.jpg);
